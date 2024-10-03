@@ -232,6 +232,11 @@
         height: 100vh;
         width: 100vw;
     }
+
+    .fairy {
+        width: 0.9vw;
+        height: 0.9vw;
+    }
 }
 
 .elementor-8 .elementor-element.elementor-element-ea47c62{
